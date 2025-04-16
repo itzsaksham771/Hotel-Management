@@ -30,13 +30,6 @@ A full-fledged **Hotel Management System** built using Java (JDK + Swing) with a
 
 ---
 
-## 📷 Screenshots
-
-> You can upload screenshots in a `screenshots/` folder and link them here.
-
-| Login Page | Dashboard | Add Customer |
-|------------|-----------|--------------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Customer](screenshots/add_customer.png) |
 
 ---
 
